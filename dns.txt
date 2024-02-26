@@ -1,0 +1,28 @@
+discuss on DNS?
+domain name system is the phonebook of internet,the purpose of domain name system is transfer to approprite address
+
+discuss on domain
+An internet domain is an administrative structure for organizing, delivering and accessing services on the internet
+
+domain purchesing strategy?
+Choose a Relevant and Brandable Name 
+Check Availability
+Choose the Right Domain Extension (TLD):
+Short and Memorable
+Privacy Protection
+ 
+records and how its works?
+A DNS record is a database entry that maps a URL to an IP address. DNS records are stored in DNS servers and help users connect their websites to the internet
+
+
+ hosted zone routing policy?
+In the context of Amazon Web Services (AWS) and their Domain Name System (DNS) service, Amazon Route 53, a "hosted zone" is a container for records that specify how DNS names are translated to IP addresses.
+
+secure socket layer (ssl)
+Secure Sockets Layer (SSL) is a communication protocol that creates a secure connection between two devices or applications on a network.
+
+
+types of ssl cirtificates?
+Domain Validated (DV) Certificates:
+Organization Validated (OV) Certificates:
+Extended Validation (EV) Certificates:
