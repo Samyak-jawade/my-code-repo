@@ -1,0 +1,8 @@
+---
+- name: playbook
+  hosts: all
+  tasks:
+    - name: writting my first script
+      debug:
+        msg: "(my first playbook is operational now)"
+...        
